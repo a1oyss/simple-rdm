@@ -1,6 +1,8 @@
-# simple-rdm
+# Simple RDM
 
-An Electron application with Vue
+## Description
+
+基于Electron + Vue全家桶的Redis GUI Client（开发ing...），未接触过前端开发，不知道猴年马月才能做出来
 
 ## Recommended IDE Setup
 
